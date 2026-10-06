@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+numpy
+matplotlib
+seaborn
+scikit-learn
+pandas
+Pillow
+h5py
+keras>=3.12.0
